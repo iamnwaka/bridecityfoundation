@@ -346,7 +346,7 @@ section .section-title {
 }
 /* contact */
 
-.heading h1, .heading h2 {
+.head h1, .head h2 {
     color: #003366;
     font-size: 3.5em;
     margin: 0;

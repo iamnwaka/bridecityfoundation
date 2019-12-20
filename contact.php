@@ -18,7 +18,7 @@
       </div>
 
       <div class="container bg-light py-3 mt-5">
-            <div class="contact-form heading text-center mt-5 mb-5">
+            <div class="contact-form head text-center mt-5 mb-5">
                     <h3>Contact Form</h3>
                     <p class="mt-2">If you would like to make an enquiry please send us a message. We look forward to hearing from you, in any regard.</p>
             </div>
