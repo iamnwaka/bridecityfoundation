@@ -1,3 +1,5 @@
+<?php include './includes/head.php' ?>
+
 <div class="head" id="home">
         <div class="container">
             <div class="head-top">
