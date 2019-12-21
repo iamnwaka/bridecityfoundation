@@ -1,46 +1,31 @@
-<?php include './includes/head.php' ?>
-
-<div class="head" id="home">
-        <div class="container">
-            <div class="head-top">
-                <div class="row">
-                        <div class="col-md-4 h-left">
-                                <div class="col-md-2">
-                                <span class="fa fa-phone pull-left" aria-hidden="true" style="font-size: 30px;"></span>
-                                </div>
-                            <p>+2347035301622</p>
-                        </div>
+<!-- //hero-header 11 -->
+<!-- Headers-4 block -->
+<section class="w3l-header-4">
+    <header id="headers4-block">
+        <div class="wrapper-full">
+            <div class="d-grid nav-mobile-block header-align">
+                <div class="logo">
+                    <a class="brand-logo" href="/">Bride City Foundation</a>
+                    <!-- if logo is image enable this
+                            <a class="brand-logo" href="#index.html">
+                                <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+                            </a> -->
                 </div>
-                <div class="col-md-6 h-right pull-right">
-                    <ul>
-                        <li><a href="#"><span class="fa fa-facebook-official"> </span></a></li>
-                        <li><a href="#"><span class="fa fa-twitter-square"> </span></a></li>
-                        <li><a href="#"><span class="fa fa-pinterest-square"> </span></a></li>
-                        <li><a href="#"><span class="fa fa-rss-square"> </span></a></li>
+                <input type="checkbox" id="nav" />
+                <label class="nav" for="nav"></label>
+                <nav>
+                    <label for="drop" class="toggle nav-height">Menu
+                        <!-- <span class="fa fa-bars"aria-hidden="true"></span> -->
+                    </label>
+                    <input type="checkbox" id="drop">
+                    <ul class="menu">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="about.php">About</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
-                </div>
-                <div class="clearfix"></div>
+                </nav>
+
             </div>
         </div>
-    </div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">
-            Bride City Foundation</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
-              </li>
-          </ul>
-        </div>
-      </nav>
+    </header>
+</section>
