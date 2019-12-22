@@ -14,545 +14,285 @@
     C A R O U S E L
     ####################################################
     -->
-    <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
-        <!-- <ol class="carousel-indicators">
-            <li data-target="#carousel" data-slide-to="0" class="active"></li>
-            <li data-target="#carousel" data-slide-to="1"></li>
-            <li data-target="#carousel" data-slide-to="2"></li>
-        </ol> -->
-        <div class="carousel-inner" role="listbox">
-            <div class="carousel-item active">
-                <a href="/">
-                     <picture>
-                            <source srcset="img/IMG-20191219-WA0006.jpg" media="(min-width: 1400px)">
-                            <source srcset="img/IMG-20191219-WA0006.jpg" media="(min-width: 769px)">
-                            <source srcset="img/IMG-20191219-WA0006.jpg" media="(min-width: 577px)">
-                            <img srcset="img/IMG-20191219-WA0006.jpg" alt="responsive image" class="d-block img-fluid">
-                    </picture>
-                </a>
+
+<section class="w3l-hero-headers-11">
+    <div class="hero-header-11">
+        <div class="hero-header-11-content">
+            <!-- banner -->
+            <div id="homepage-slider" class="st-slider">
+                <input type="radio" class="cs_anchor radio" name="slider" id="play1" checked="" />
+                <input type="radio" class="cs_anchor radio" name="slider" id="slide1" />
+                <input type="radio" class="cs_anchor radio" name="slider" id="slide2" />
+                <input type="radio" class="cs_anchor radio" name="slider" id="slide3" />
+                <div class="images">
+                    <div class="images-inner">
+                        <div class="image-slide">
+                            <div class="banner-w3ls-1">
+                                <div class="wrapper">
+                                    <div class="slider-num d-grid grid-columns-auto">
+                                        <h4>01<span>/03</span></h4>
+
+                                    </div>
+                                    <div class="d-grid grid-columns-auto-end">
+                                        <div class="slider-text-w3ls">
+
+                                            <h4>Better health care</h4>
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur hic odio voluptatem tenetur consequatur.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="image-slide">
+                            <div class="banner-w3ls-2">
+                                <div class="wrapper">
+                                    <div class="slider-num d-grid grid-columns-auto">
+                                        <h4>02<span>/03</span></h4>
+
+                                    </div>
+                                    <div class="d-grid grid-columns-auto-end">
+                                        <div class="slider-text-w3ls">
+
+                                            <h4>Better health care</h4>
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur hic odio voluptatem tenetur consequatur.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="image-slide">
+                            <div class="banner-w3ls-3">
+                                <div class="wrapper">
+                                    <div class="slider-num d-grid grid-columns-auto">
+                                        <h4>03<span>/03</span></h4>
+
+                                    </div>
+                                    <div class="d-grid grid-columns-auto-end">
+                                        <div class="slider-text-w3ls">
+
+                                            <h4>Better health care</h4>
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur hic odio voluptatem tenetur consequatur.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="labels">
+                    <div class="fake-radio">
+                        <label for="slide1" class="radio-btn"></label>
+                        <label for="slide2" class="radio-btn"></label>
+                        <label for="slide3" class="radio-btn"></label>
+                    </div>
+                </div>
             </div>
-            <!-- /.carousel-item -->
-            <div class="carousel-item">
-                <a href="/">
-                     <picture>
-                      <source srcset="img/IMG-20191219-WA0008.jpg" media="(min-width: 1400px)">
-                      <source srcset="img/IMG-20191219-WA0008.jpg" media="(min-width: 769px)">
-                       <source srcset="img/IMG-20191219-WA0008.jpg" media="(min-width: 577px)">
-                      <img srcset="img/IMG-20191219-WA0008.jpg" alt="responsive image" class="d-block img-fluid">
-                    </picture>
-                </a>
-            </div>
-            <!-- /.carousel-item -->
-            <div class="carousel-item">
-                <a href="/">
-                     <picture>
-                      <source srcset="img/IMG-20191219-WA0009.jpg" media="(min-width: 1400px)">
-                      <source srcset="img/IMG-20191219-WA0009.jpg" media="(min-width: 769px)">
-                       <source srcset="img/IMG-20191219-WA0009.jpg" media="(min-width: 577px)">
-                      <img srcset="img/IMG-20191219-WA0009.jpg" alt="responsive image" class="d-block img-fluid">
-                    </picture>
-                </a>
-            </div>
-            <!-- /.carousel-item -->
+            <!-- //banner -->
         </div>
-        <!-- /.carousel-inner -->
-        <!-- <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a> -->
     </div>
-    <!-- /.carousel -->
+</section>
+<!-- //hero-header 11 -->
+<div class="bride_container">
+    <div class="bride_title">
+        <p>Welcome</p>
+        <span>Bride City Foundation</span>
+    </div>
+    <div class="bride_content">
+        Bride City is a conglomeration of 5 Cooperative Societies operating under the umbrella of an NGO called BRIDE CITY FOUNDATION. For over 13 years, Bride city has been helping people discover, develop and maximize their most profitable potentials. Now they can live fulfilled, safe, happy & free. The Cooperatives donate 10% of their annual profits to the NGO for its Social Intervention impact in the areas of Capacity Building and Education , Child Protection through Women Empowerment, Road Safety Intervention and Financial Inclusion.
+    </div>
+</div>
+<!-- call-to-action-17 -->
+<section class="w3l-call-to-action-17_sur">
+    <div class="call-to-action17_sur section-gap">
+        <div class="wrapper">
+            <div class="action-top_sur">
+                <div class="action17-top-left_sur">
+                    <img src="assets/images/12.jpeg" class="img" alt="">
+                </div>
+                <div class="action17-top-right_sur">
+                    <input id="tab1" type="radio" name="tabs" checked>
 
-       
+                    <section id="content1" class="tab-content">
+                        <div class="call-action_17">
+                            <h3>Partnership Training </h3>
+                            <p>Partnership Training with the BRIDE CITY International Microfinance Partners.</p>
 
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-md-12 text-center welcome-left heading">
-               <h1>Welcome</h1>
-               <h5>Bride City Foundation</h5>
-            </div>
-            <div class="col-md-12 text-center well">
-               <p>Bride City is a conglomeration of 5 Cooperative Societies operating under the umbrella of an NGO called BRIDE CITY FOUNDATION. For over 13 years, Bride city has been helping people discover, develop and maximize their most profitable potentials. Now they can live fulfilled, safe, happy & free. The Cooperatives donate 10% of their annual profits to the NGO for its Social Intervention impact in the areas of Capacity Building and Education , Child Protection through Women Empowerment, Road Safety Intervention and Financial Inclusion.
-            </p>
+                        </div>
+                    </section>
+                </div>
             </div>
         </div>
     </div>
+</section>
+<!-- features-17 -->
+<section class="w3l-features-17">
+    <div class="features-17_sur section-gap">
+        <div class="wrapper">
+            <!-- <div class="section-title text-center">
+        <h4>Benefits</h4>
+      </div> -->
+            <div class="features-17-top_sur">
+                <div class="features-17-left_sur">
+                    <h2>Our Benefits</h2>
 
-                         <!-- EVENT -->
-        <div class="container-fluid">
-            <div class="title-bar text-center">
-                <h1>Events</h1>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-md-8">
-                    <div class="row">
-                        <a href="img/4.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
-                            <img src="img/4.jpeg" class="img-fluid">
-                        </a>
-                        <a href="img/5.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
-                            <img src="img/5.jpeg" class="img-fluid">
-                        </a>
-                        <a href="img/2.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
-                            <img src="img/2.jpeg" class="img-fluid">
-                        </a>
+                </div>
+                <div class="features-17-right_sur">
+                    <div class="features-17-right-tp_sur">
+                        <h5><a href="#single.html">Bride City Members have all-year access to Grants and Loans and Equity funding.</a></h5>
+
                     </div>
-                    <div class="row">
-                        <a href="img/3.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
-                            <img src="img/3.jpeg" class="img-fluid">
-                        </a>
-                        <a href="img/9.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
-                            <img src="img/9.jpeg" class="img-fluid">
-                        </a>
-                        <a href="img/1.jpeg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
-                            <img src="img/1.jpeg" class="img-fluid">
-                        </a>
+                    <div class="features-17-right-tp_sur">
+                        <h5><a href="#single.html">Bride City Cooperators are life shareholders in its Microfinance Bank.</a></h5>
+
+                    </div>
+                    <div class="features-17-right-tp_sur">
+                        <h5><a href="#single.html">Access to Customized Micro-Insurance</a></h5>
+
+                    </div>
+                    <div class="features-17-right-tp_sur">
+                        <h5><a href="#single.html">International Microfinance Partners</a></h5>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</section>
+<!-- /features-17 -->
 
-          <!-- HELP STARTS -->
+<!-- teams 27 block -->
+<section class="w3l-teams-27">
+    <div class="teams27 section-gap">
+        <div class="wrapper">
+            <div class="section-title text-center">
+                <h4>Meet our team</h4>
 
-          <div class="container-fluid mt-5">
-              <div class="row">
-                    <div class="col-md-6 help-left">
-                            <img src="img/12.jpeg" stlyle="height: 21.19em;">
+            </div>
+            <div class="d-grid grid-col-2 main-contteam-28">
+                <div class="team-main-19">
+                    <div class="column-19">
+                        <a href="#team-single.html"><img class="image-fluid" src="assets/images/ceo.jpeg" alt=" "></a>
                     </div>
-                    <div class="col-md-6 help-right heading" style="height: 24em;">
-                            <h5>Partnership Training </h5><br><br>
-                            <h1 style="color: #FFFFFF">Partnership Training with the BRIDE CITY International Microfinance Partners.</h1>
-                                <div class="tool">
-                                    <a class="tooltips" href="#">
-                                        <span class="span-tools"></span></a>
-                                        <style></style>
-                                </div>
-                    </div>
-              </div>
-          </div>
+                    <div class="right-team-9">
+                        <div class="teams-info">
+                            <h6><a href="#team-single.html" class="title-team-28">Dr.magnus Oyeaku</a></h6>
+                            <p class="sm-text-28">
 
-<!-- Team -->
-<section id="team" class="pb-5">
-    <div class="container">
-        <h5 class="section-title h1">OUR TEAM</h5>
-        <div class="row">
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="img/ceo.jpeg" alt="card image"></p>
-                                </div>
-                            </div>
+                                Co-Founder/President</p>
+
+
                         </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                        <h4 class="card-title">Dr.magnus Oyeaku</h4>
-                                        <p class="card-text">Co-Founder/President</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="team-main-19">
+                    <div class="column-19">
+                        <a href="#team-single.html"><img class="image-fluid" src="assets/images/vice.jpeg" alt=" "></a>
+                    </div>
+                    <div class="right-team-9">
+                        <div class="teams-info">
+                            <h6><a href="#team-single.html" class="title-team-28">cristian Onyeaku
+
+                                </a></h6>
+                            <p class="sm-text-28"> Co-Founder/V.President</p>
+
+
+                        </div>
+                    </div>
+                </div>
+                <div class="team-main-19">
+                    <div class="column-19">
+                        <a href="#team-single.html"><img class="image-fluid" src="assets/images/vice2.jpeg" alt=" "></a>
+                    </div>
+                    <div class="right-team-9">
+                        <div class="teams-info">
+                            <h6><a href="#team-single.html" class="title-team-28">Amb.Godswill W.T Ogbari(PhD)
+
+                                </a></h6>
+                            <p class="sm-text-28">V.President Nigeria</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="team-main-19">
+                    <div class="column-19">
+                        <a href="#team-single.html"><img class="image-fluid" src="assets/images/IMG-20191219-WA0013.jpg" alt=" "></a>
+                    </div>
+                    <div class="right-team-9">
+                        <div class="teams-info">
+                            <h6><a href="#team-single.html" class="title-team-28">Barr.Nkasiobi Atasie
+
+                                </a></h6>
+                            <p class="sm-text-28">Exec/Legal Secretary</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="team-main-19">
+                    <div class="column-19">
+                        <a href="#team-single.html"><img class="image-fluid" src="assets/images/13.jpeg" alt=" "></a>
+                    </div>
+                    <div class="right-team-9">
+                        <div class="teams-info">
+                            <h6><a href="#team-single.html" class="title-team-28">Otu Bassey
+
+
+
+                                </a></h6>
+                            <p class="sm-text-28">Regional Mgr7</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="team-main-19">
+                    <div class="column-19">
+                        <a href="#team-single.html"><img class="image-fluid" src="assets/images/14.jpeg" alt=" "></a>
+                    </div>
+                    <div class="right-team-9">
+                        <div class="teams-info">
+                            <h6><a href="#team-single.html" class="title-team-28">Dr.Ikeh Joseph
+
+
+                                </a></h6>
+                            <p class="sm-text-28"> Coordinator,Education&Training
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="team-main-19">
+                    <div class="column-19">
+                        <a href="#team-single.html"><img class="image-fluid" src="assets/images/15.jpeg" alt=" "></a>
+                    </div>
+                    <div class="right-team-9">
+                        <div class="teams-info">
+                            <h6><a href="#team-single.html" class="title-team-28">Nma Okechukwu Okoroji
+
+
+
+                                </a></h6>
+                            <p class="sm-text-28">Nat'l Director,Finance</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="team-main-19">
+                    <div class="column-19">
+                        <a href="#team-single.html"><img class="image-fluid" src="assets/images/IMG-20191219-WA0012.jpg" alt=" "></a>
+                    </div>
+                    <div class="right-team-9">
+                        <div class="teams-info">
+                            <h6><a href="#team-single.html" class="title-team-28">Pst.Jerry Nwankwora</a></h6>
+                            <p class="sm-text-28">Nat'l pro</p>
+
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                        <p><img class=" img-fluid" src="img/vice.jpeg" alt="card image"></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                        <h4 class="card-title">cristian Onyeaku</h4>
-                                        <p class="card-text">Co-Founder/V.President</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="img/vice2.jpeg" alt="card image"></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                        <h4 class="card-title">Amb.Godswill W.T Ogbari(PhD)</h4>
-                                        <p class="card-text">V.President Nigeria</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="img/IMG-20191219-WA0013.jpg" alt="card image"></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                        <h4 class="card-title">Barr.Nkasiobi Atasie</h4>
-                                        <p class="card-text">Exec/Legal Secretary</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="img/13.jpeg" alt="card image"></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Otu Bassey</h4>
-                                    <p class="card-text">Regional Mgr7</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="img/14.jpeg" alt="card image"></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Dr.Ikeh Joseph</h4>
-                                    <p class="card-text">Coordinator,Education&Training</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                        <div class="mainflip">
-                            <div class="frontside">
-                                <div class="card">
-                                    <div class="card-body text-center">
-                                        <p><img class=" img-fluid" src="img/15.jpeg" alt="card image"></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="backside">
-                                <div class="card">
-                                    <div class="card-body text-center mt-4">
-                                        <h4 class="card-title">Nma Okechukwu Okoroji</h4>
-                                        <p class="card-text">Nat'l Director,Finance</p>
-                                        <ul class="list-inline">
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-facebook"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-skype"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-google"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ./Team member -->
-                <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                        <div class="mainflip">
-                            <div class="frontside">
-                                <div class="card">
-                                    <div class="card-body text-center">
-                                        <p><img class=" img-fluid" src="img/16.jpeg" alt="card image"></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="backside">
-                                <div class="card">
-                                    <div class="card-body text-center mt-4">
-                                        <h4 class="card-title"></h4>
-                                        <p class="card-text">Coordinator,Education&Training</p>
-                                        <ul class="list-inline">
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-facebook"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-skype"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-google"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ./Team member -->
-                <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                    <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                        <div class="mainflip">
-                            <div class="frontside">
-                                <div class="card">
-                                    <div class="card-body text-center">
-                                        <p><img class=" img-fluid" src="img/IMG-20191219-WA0012.jpg" alt="card image"></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="backside">
-                                <div class="card">
-                                    <div class="card-body text-center mt-4">
-                                        <h4 class="card-title">Pst.Jerry Nwankwora</h4>
-                                        <p class="card-text">Nat'l pro</p>
-                                        <ul class="list-inline">
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-facebook"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-skype"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                    <i class="fa fa-google"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- ./Team member -->
 
         </div>
     </div>
 </section>
-<!-- Team -->
 
-        </div>
-    </div>
-</section>
+
 <!-- Team -->
 <!-- //form-25-section -->
 <!--team-end-->
